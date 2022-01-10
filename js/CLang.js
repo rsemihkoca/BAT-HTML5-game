@@ -1,0 +1,39 @@
+var TEXT_HELP1          = "Yolculuga gec kaldin! Hadi gazla!";
+var TEXT_HELP_COIN      = "Puan";
+var TEXT_HELP_FUEL      = "Yakit";
+var TEXT_HELP_BOOST     = "Nitro";
+var TEXT_HELP_MOBILE1   = "Fren icin sol pedal";
+var TEXT_HELP_MOBILE2   = "Gaz için sag pedal";
+var TEXT_HELP_DESKTOP1  = "Fren icin Asagi/Sol Ok";
+var TEXT_HELP_DESKTOP2  = "Gaz icin Yukari/Sag Ok";
+var TEXT_WIN            = "Tebrikler, KAZANDIN!";
+var TEXT_TRYAGAIN       = "Tekrar Dene?";
+var TEXT_LOSE           = "Kaybettin!";
+var TEXT_GAMEOVER_GAS   = "Gaz Bitiyor!";
+var TEXT_GAMEOVER_TIME  = "Zaman tukendi!";
+var TEXT_PAUSE          = "Duraklat";
+var TEXT_ARE_SURE       = "Cıkmak istedigine emin misin ?\nTum oyun kaybedilecek";
+var TEXT_BEST_SCORE     = "En iyi skor";
+var TEXT_NEW_BEST_SCORE = "Yeni en iyi skor";
+var TEXT_SCORE          = "Skor";
+var TEXT_UPGRADE        = "Aracini Gelistir";
+var TEXT_LEVEL          = "Seviye";
+var TEXT_MAXSPEED       = "Maksimum Hiz";
+var TEXT_ACCELERATION   = "Gaz";
+var TEXT_NITRO          = "Nitro";
+var TEXT_SELECT_LEVEL   = "Seviye Sec";
+var TEXT_HURRYUP        = "Acele et!";
+var TEXT_LOWGAS         = "Dusuk gaz!";
+var TEXT_CONFIRM_RESET  = "Oyunu tekrar mi baslatmak istiyorsun?\nTum kayitlarin silinecek";
+
+var TEXT_PRELOADER_CONTINUE = "Basla";
+var TEXT_CREDITS_DEVELOPED = "Gelistirici";
+
+var TEXT_ERR_LS = "WEB TARAYICINIZ YEREL DEPOLAMA DESTEKLEMIYOR. SAFARI KULLANIYORSANIZ, ÖZEL TARAMA ILE ILGILI OLABILIR. SONUÇ OLARAK BAZI BILGILER KAYDEDILMEYEBILIR VEYA BAZI ÖZELLIKLER KULLANILAMAYABILIR.";
+
+var TEXT_SHARE_IMAGE = "200x200.jpg";
+var TEXT_SHARE_TITLE = "Tebrikler Sana!";
+var TEXT_SHARE_MSG1 = "Topladiklarin <strong>";
+var TEXT_SHARE_MSG2 = " Puanlar</strong>!<br><br>Skorunu arkadaslarinla paylas!";
+var TEXT_SHARE_SHARE1 = "Puanin ";
+var TEXT_SHARE_SHARE2 = " Puanlar! Peki daha iyisini yapabilir misin?";
